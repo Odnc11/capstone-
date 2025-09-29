@@ -44,7 +44,7 @@ const dbConfig = {
     server: 'localhost\\MSSQLSERVER01',
     database: 'patent_db',
     user: 'sa',
-    password: 'taymur7227',
+    password: 'odnc1506',
     trustServerCertificate: true,
     options: {
         encrypt: true,
